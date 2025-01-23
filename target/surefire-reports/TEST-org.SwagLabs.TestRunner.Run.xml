@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.SwagLabs.TestRunner.Run" time="318.476" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="21.0.4+8-LTS-274"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\HP\Desktop\MyNewProject\SwagLabs"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\HP\Desktop\MyNewProject\SwagLabs"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="21.0.4+8-LTS-274"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\HP\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="stderr.encoding" value="cp437"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\maven\apache-maven-3.9.9\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="stdout.encoding" value="cp437"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-1.8\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;%JAVA_HOME %\bin;C:\Program Files\Java\jdk-21\lib;C:\Program Files\nodejs;C:\Users\HP\AppData\Local\Android\Sdk\build-tools;C:\Users\HP\AppData\Local\Android\Sdk\platforms;C:\maven\apache-maven-3.9.9\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Users\HP\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\HP\AppData\Local\Programs\Python\Python313\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\HP\AppData\Roaming\npm;C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.1.1\bin;."/>
+    <property name="maven.conf" value="C:\maven\apache-maven-3.9.9/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="65.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\maven\apache-maven-3.9.9\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\HP"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="21"/>
+    <property name="user.name" value="HP"/>
+    <property name="java.class.path" value="C:\maven\apache-maven-3.9.9\boot\plexus-classworlds-2.8.0.jar"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="21.0.4"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\maven\apache-maven-3.9.9"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2024-07-16"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="runScenario" classname="org.SwagLabs.TestRunner.Run" time="157.479"/>
+  <testcase name="runScenario" classname="org.SwagLabs.TestRunner.Run" time="52.061"/>
+  <testcase name="runScenario" classname="org.SwagLabs.TestRunner.Run" time="44.258"/>
+  <testcase name="runScenario" classname="org.SwagLabs.TestRunner.Run" time="55.296"/>
+</testsuite>
