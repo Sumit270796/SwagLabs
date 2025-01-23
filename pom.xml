@@ -114,14 +114,20 @@
     <version>2.24.2</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/com.sun/tools -->
-<dependency>
+ <dependency>
     <groupId>com.sun</groupId>
     <artifactId>tools</artifactId>
     <version>1.5.0</version>
     <scope>system</scope>
 <systemPath>${tools-systemPath46}</systemPath>
 </dependency>
-
+<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+<dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+    <version>1.18.34</version>
+    <scope>provided</scope>
+</dependency>
  </dependencies>
 <build>
 <pluginManagement>
